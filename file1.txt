@@ -1,1 +1,1 @@
-text rhrhrdr-other_text1
+text-other_text1
